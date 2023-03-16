@@ -30,7 +30,7 @@
 	background-size: cover;
 	filter: blur(50px);
 	z-index: -1;
-}
+} 
 
 #card{
     position: relative;
