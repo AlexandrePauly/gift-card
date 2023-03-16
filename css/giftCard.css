@@ -11,7 +11,7 @@
     padding: 0;
 }
 
-#rightCol{
+#container{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +19,7 @@
     width: 100%;
 }
 
-#rightCol:after{
+#container:after{
     content: '';
 	position: absolute;
 	width: 100%;
